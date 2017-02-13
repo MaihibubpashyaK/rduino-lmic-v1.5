@@ -1,5 +1,7 @@
-Arduino-LMIC-v1.5 library
-=========================
+Arduino-LMIC-v1.5 library (outdated)
+====================================
+***The content of this repository is outdated and provided only for historical purposes. Please refer to https://github.com/matthijskooijman/arduino-lmic for the canonical Arduino port of LMIC***
+
 This repository contains the IBM LMIC (LoraMAC-in-C) v1.5 library, 
 slightly modified to run in the Arduino environment, allowing using 
 the Semtech SX1272/SX1276 or HopeRF RFM92/95 LoRa tranceiver with 
